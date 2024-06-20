@@ -13,13 +13,18 @@
 ⚡ **Pai | Pet | Games | Books**
 
  </div>
-     <div align="center">
-  <img height="100" src="https://i.imgur.com/yCHZdha.png"/>
-</div>
+    <div align="center">
+      <img height="100" src="https://i.imgur.com/yCHZdha.png"/>
     <div align="center">
       <a href="https://www.linkedin.com/in/%C3%A9berton-silva-fran%C3%A7a-b50342a8/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
       </a>
+</div>
+        
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ebertonfranca.ebertonfranca&"  />
+</div>
+
 </div>
 
 <div align="center">
@@ -30,10 +35,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
